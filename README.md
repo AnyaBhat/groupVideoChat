@@ -1,4 +1,4 @@
-#Group Video calling Application
+# Group Video Call Application
 
 
 The video application has integrated group chat features which allow users to both watch videos and engage in group chat discussions simultaneously.
